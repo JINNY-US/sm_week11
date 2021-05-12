@@ -1,7 +1,7 @@
 # sm_week11
 스마트모바일프로그램설계 11주차
 
-10주차 팀 프로젝트 활동 : https://github.com/Kim-KyungJin/sm_week010
+10주차 팀 프로젝트 활동 : https://github.com/Kim-KyungJin/sm_week10
 
 ### 팀 구성   
 스마트정보통신공학과 201621216 이준석   
