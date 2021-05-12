@@ -17,6 +17,8 @@
    
    
    진도표
+   ![20210512_213237](https://user-images.githubusercontent.com/76034369/117975623-d1ef7000-b369-11eb-9232-a562c93b3666.png)
+
    
    
    
