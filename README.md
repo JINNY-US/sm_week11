@@ -52,11 +52,12 @@
 >https://user-images.githubusercontent.com/76034369/118491440-f7112380-b759-11eb-9199-d7eb94a27cfb.mp4
 >>가게 정보에 세부적으로 '케이크 맛집', '20대 인기', '이벤트 중'과 같은 Tag 기능을 추가 하기위해 listview를 이용하여 화면을 구성했습니다.
 >>후에 저장 버튼을 누르면 "현재 n 개 선택됨"으로 바뀌고 설정한 값은 데이터베이스에 올려서 후에 필터링의 기준으로 사용됩니다.(코드 추가 중)
+>>
 >>![20210517_214801](https://user-images.githubusercontent.com/76034369/118491145-a6012f80-b759-11eb-8ef5-c5bbfa0a87f2.png)
 >>
 >>2. 비용 설정 기능 보안
 >>
->>https://user-images.githubusercontent.com/76034369/118493181-caf6a200-b75b-11eb-880a-91b74283a61b.mp4
+>https://user-images.githubusercontent.com/76034369/118493181-caf6a200-b75b-11eb-880a-91b74283a61b.mp4
 >>이전 주차에서 내부에서는 변수에 각 항목별로 자동 셋팅 된 비용이 다음 화면에서 출력되지 않는 버그가 있었는데, 원인은 제가 5개의 int값을 한번에 전달하고 싶어서
 >>int형 array에 주소값 0~4까지 지정하여 담아준 후 array를 통째로 넘긴 후 주소값을 이용해 다시 새로운 변수에 받아오기 위해 작성했던 코드 였습니다.
 >>여러 시도끝에 array의 intent나 bundle을 이용한 전송에 실패하고 그냥 각각의 값을 int형으로 따로 넘겨주자 정상작동 하였습니다.
