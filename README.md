@@ -47,8 +47,9 @@
 ### 가격 분배 및 가게 추천 (홍수빈)
 >
 >
->![KakaoTalk_20210516_203430900](https://user-images.githubusercontent.com/57963888/118491900-69820380-b75a-11eb-8c0a-b3afa69e8d4a.jpg)
->![KakaoTalk_20210516_203440910](https://user-images.githubusercontent.com/57963888/118491906-6b4bc700-b75a-11eb-8704-ffde7e1199c1.jpg)   
+>![KakaoTalk_20210516_203430900](https://user-images.githubusercontent.com/57963888/118492019-8ae2ef80-b75a-11eb-89ed-c87b9413ae1b.jpg)
+>![KakaoTalk_20210516_203440910](https://user-images.githubusercontent.com/57963888/118492021-8c141c80-b75a-11eb-84e5-174396c04710.jpg)   
+  
 
 
 ### 가게 정보 출력 및 수정, 메뉴 등록 (이혜정)
