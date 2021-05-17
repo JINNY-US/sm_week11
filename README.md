@@ -46,7 +46,8 @@
 
 ### 가격 분배 및 가게 추천 (홍수빈)
 >
->
+>00위주만 선택하는 것이 아닌, 사용자가 직접 가격 분배를 설정할 수 있도록 추가해주었습니다.   
+>여기서 나뉜 금액은 가게 추천에 사용될 것입니다.   
 >![KakaoTalk_20210516_203430900](https://user-images.githubusercontent.com/57963888/118492019-8ae2ef80-b75a-11eb-89ed-c87b9413ae1b.jpg)
 >![KakaoTalk_20210516_203440910](https://user-images.githubusercontent.com/57963888/118492021-8c141c80-b75a-11eb-84e5-174396c04710.jpg)   
   
