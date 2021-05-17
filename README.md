@@ -32,16 +32,17 @@
 >>테마 색을 맞추어 통일하였습니다.   
 >>Fragment를 사용하여 왼쪽이나 오른쪽으로 넘기면 탭 메뉴에 등록한 내용이 나오도록 하였습니다.   
 >>
->>![KakaoTalk_20210517_211859235](https://user-images.githubusercontent.com/57963888/118487743-fd050580-b755-11eb-8ba2-9ddb87539595.png)
->>![KakaoTalk_20210517_211859235_01](https://user-images.githubusercontent.com/57963888/118487750-fe363280-b755-11eb-96c1-2b27d858423a.png)   
+>>![KakaoTalk_20210517_211859235](https://user-images.githubusercontent.com/57963888/118488334-97654900-b756-11eb-94ce-6e74ed59dfff.png)
+>>![KakaoTalk_20210517_211859235_01](https://user-images.githubusercontent.com/57963888/118488339-97fddf80-b756-11eb-85cb-ae2b37c17e8e.png)    
 >>
 
 >>리뷰를 작성할 때 이미지를 넣지 않으면 튕기는 현상이 발생했습니다.   
 >>이 오류를 고치는 중에 있습니다.   
 >>
->>![KakaoTalk_20210517_211859235_02](https://user-images.githubusercontent.com/57963888/118487751-fe363280-b755-11eb-96bf-a497b89c8a8d.png)
->>![KakaoTalk_20210517_211859235_03](https://user-images.githubusercontent.com/57963888/118487755-fecec900-b755-11eb-90d4-4343978b0746.png)
->>![KakaoTalk_20210517_211859235_04](https://user-images.githubusercontent.com/57963888/118487757-ff675f80-b755-11eb-8600-0335533f15f3.png)
+>>![KakaoTalk_20210517_211859235_02](https://user-images.githubusercontent.com/57963888/118488399-a946ec00-b756-11eb-9584-6f26538da232.png)
+>>![KakaoTalk_20210517_211859235_03](https://user-images.githubusercontent.com/57963888/118488404-aa781900-b756-11eb-8a1e-cdee2b569968.png)
+>>![KakaoTalk_20210517_211859235_04](https://user-images.githubusercontent.com/57963888/118488410-aa781900-b756-11eb-8b1f-b4cf9ac1a295.png)   
+
 
 
 ### 가게 정보 출력 및 수정, 메뉴 등록 (이혜정)
