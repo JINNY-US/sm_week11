@@ -21,7 +21,7 @@
 >>![KakaoTalk_20210512_215446341](https://user-images.githubusercontent.com/57963888/117978537-f1d46300-b36c-11eb-8867-f82abbd1c939.jpg)   
 >>![KakaoTalk_20210512_215446537](https://user-images.githubusercontent.com/57963888/117978542-f3059000-b36c-11eb-805b-8ed434f123fc.jpg)   
 
-### 가게 및 리뷰, 게시판 띄우기(김경진)
+### (김경진)
 >
 >압축파일이 커서 등록이 안 됩니다.   
 >제가 저장했던 링크를 올려두겠습니다.   
@@ -42,15 +42,29 @@
 >>![KakaoTalk_20210517_211859235_02](https://user-images.githubusercontent.com/57963888/118488399-a946ec00-b756-11eb-9584-6f26538da232.png)
 >>![KakaoTalk_20210517_211859235_03](https://user-images.githubusercontent.com/57963888/118488404-aa781900-b756-11eb-8a1e-cdee2b569968.png)
 >>![KakaoTalk_20210517_211859235_04](https://user-images.githubusercontent.com/57963888/118488410-aa781900-b756-11eb-8b1f-b4cf9ac1a295.png)   
-
-
-### 가격 분배 및 가게 추천 (홍수빈)
+>>
+>>
+>>
+### 태그 기능 추가, 비용 설정 기능 보안 (홍수빈)
 >
->00위주만 선택하는 것이 아닌, 사용자가 직접 가격 분배를 설정할 수 있도록 추가해주었습니다.   
->여기서 나뉜 금액은 가게 추천에 사용될 것입니다.   
->![KakaoTalk_20210516_203430900](https://user-images.githubusercontent.com/57963888/118492019-8ae2ef80-b75a-11eb-89ed-c87b9413ae1b.jpg)
->![KakaoTalk_20210516_203440910](https://user-images.githubusercontent.com/57963888/118492021-8c141c80-b75a-11eb-84e5-174396c04710.jpg)   
-  
+>1. 태그 기능 추가
+>
+>https://user-images.githubusercontent.com/76034369/118491440-f7112380-b759-11eb-9199-d7eb94a27cfb.mp4
+>>가게 정보에 세부적으로 '케이크 맛집', '20대 인기', '이벤트 중'과 같은 Tag 기능을 추가 하기위해 listview를 이용하여 화면을 구성했습니다.
+>>후에 저장 버튼을 누르면 "현재 n 개 선택됨"으로 바뀌고 설정한 값은 데이터베이스에 올려서 후에 필터링의 기준으로 사용됩니다.(코드 추가 중)
+>>![20210517_214801](https://user-images.githubusercontent.com/76034369/118491145-a6012f80-b759-11eb-8ef5-c5bbfa0a87f2.png)
+>>
+>>2. 비용 설정 기능 보안
+>>
+>>이전 주차에서 내부에서는 변수에 각 항목별로 자동 셋팅 된 비용이 다음 화면에서 출력되지 않는 버그가 있었는데, 원인은 제가 5개의 int값을 한번에 전달하고 싶어서
+>>int형 array에 주소값 0~4까지 지정하여 담아준 후 array를 통째로 넘긴 후 주소값을 이용해 다시 새로운 변수에 받아오기 위해 작성했던 코드 였습니다.
+>>여러 시도끝에 array의 intent나 bundle을 이용한 전송에 실패하고 그냥 각각의 값을 int형으로 따로 넘겨주자 정상작동 하였습니다.
+>>그리고 이번 주차에는 직접 사용자가 항목별로 원하는 비율을 설정 할 수 있도록 하는 기능을 추가 했습니다.
+>>cardview를 2개를 만들어서 spinner가 직접 지정 모드를 선택하는지, 아니면 일반 추천 모드를 선택하는지를 switch문으로 받아와서 상황에 맞게 두개의 cardview를 setVisibility(View.VISIBLE)/setVisibility(View.GONE) 처리를 하여 전환시켰습니다.
+>>![20210517_215621](https://user-images.githubusercontent.com/76034369/118492192-c087d880-b75a-11eb-90d5-a17566b93b32.png)
+
+
+
 
 
 ### 가게 정보 출력 및 수정, 메뉴 등록 (이혜정)
