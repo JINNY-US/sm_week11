@@ -21,6 +21,12 @@
 >>![KakaoTalk_20210512_215446341](https://user-images.githubusercontent.com/57963888/117978537-f1d46300-b36c-11eb-8867-f82abbd1c939.jpg)   
 >>![KakaoTalk_20210512_215446537](https://user-images.githubusercontent.com/57963888/117978542-f3059000-b36c-11eb-805b-8ed434f123fc.jpg)   
 
+### (김경진)
+>
+>압축파일이 커서 등록이 안 됩니다.   
+>제가 저장했던 링크를 올려두겠습니다.   
+>https://github.com/Kim-KyungJin/sm_project/tree/addfragment
+
 ### 가게 정보 출력 및 수정, 메뉴 등록 (이혜정)
 >
 > *해당 코드는 압축해서 위에 따로 추가하였습니다.*
