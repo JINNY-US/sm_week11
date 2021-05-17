@@ -31,6 +31,7 @@
 >>따로 만들어뒀던 앱을 합치는 작업을 했습니다.   
 >>테마 색을 맞추어 통일하였습니다.   
 >>Fragment를 사용하여 왼쪽이나 오른쪽으로 넘기면 탭 메뉴에 등록한 내용이 나오도록 하였습니다.   
+>>아직 데이터를 등록하지 않아 리스트에는 보여지지 않습니다.
 >>
 >>![KakaoTalk_20210517_211859235](https://user-images.githubusercontent.com/57963888/118488334-97654900-b756-11eb-94ce-6e74ed59dfff.png)
 >>![KakaoTalk_20210517_211859235_01](https://user-images.githubusercontent.com/57963888/118488339-97fddf80-b756-11eb-85cb-ae2b37c17e8e.png)    
