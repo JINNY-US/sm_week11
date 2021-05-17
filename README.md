@@ -25,11 +25,28 @@
 >
 >압축파일이 커서 등록이 안 됩니다.   
 >제가 저장했던 링크를 올려두겠습니다.   
->https://github.com/Kim-KyungJin/sm_project/tree/addfragment
+>https://github.com/Kim-KyungJin/sm_project/tree/addfragment   
+>>1. 테마 고치기   
+>>
+>>따로 만들어뒀던 앱을 합치는 작업을 했습니다.   
+>>테마 색을 맞추어 통일하였습니다.   
+>>Fragment를 사용하여 왼쪽이나 오른쪽으로 넘기면 탭 메뉴에 등록한 내용이 나오도록 하였습니다.   
+>>
+>>![KakaoTalk_20210517_211859235](https://user-images.githubusercontent.com/57963888/118487743-fd050580-b755-11eb-8ba2-9ddb87539595.png)
+>>![KakaoTalk_20210517_211859235_01](https://user-images.githubusercontent.com/57963888/118487750-fe363280-b755-11eb-96c1-2b27d858423a.png)   
+>>
+
+>>리뷰를 작성할 때 이미지를 넣지 않으면 튕기는 현상이 발생했습니다.   
+>>이 오류를 고치는 중에 있습니다.   
+>>
+>>![KakaoTalk_20210517_211859235_02](https://user-images.githubusercontent.com/57963888/118487751-fe363280-b755-11eb-96bf-a497b89c8a8d.png)
+>>![KakaoTalk_20210517_211859235_03](https://user-images.githubusercontent.com/57963888/118487755-fecec900-b755-11eb-90d4-4343978b0746.png)
+>>![KakaoTalk_20210517_211859235_04](https://user-images.githubusercontent.com/57963888/118487757-ff675f80-b755-11eb-8600-0335533f15f3.png)
+
 
 ### 가게 정보 출력 및 수정, 메뉴 등록 (이혜정)
 >
-> #### *해당 코드는 압축해서 위에 따로 추가하였습니다.*
+> *해당 코드는 압축해서 위에 따로 추가하였습니다.*
 > 
 >> 1. 가게 정보 수정
 >>
